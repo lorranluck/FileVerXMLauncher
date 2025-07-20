@@ -1,7 +1,7 @@
-5
-https://update2.l2xm.com/XM_Multi-launcher/Patchs/XMUpdater.exe
-https://update2.l2xm.com/XM_Multi-launcher/Patchs/XMUpdater.dll
-https://update2.l2xm.com/XM_Multi-launcher/Patchs/XMUpdater.runtimeconfig.json
-https://update2.l2xm.com/XM_Multi-launcher/
+4
+http://162.214.69.153:8080/XM_Multi-launcher/Patchs/XMUpdater.exe
+http://162.214.69.153:8080/XM_Multi-launcher/Patchs/XMUpdater.dll
+http://162.214.69.153:8080/XM_Multi-launcher/Patchs/XMUpdater.runtimeconfig.json
+http://162.214.69.153:8080/XM_Multi-launcher/
 true
 true
